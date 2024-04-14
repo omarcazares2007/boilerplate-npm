@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
+	"dependencies": "MAJOR.MINOR.PATCH"{
 		"express": "^1.2.13"
 	},
 	"main": "server.js",
