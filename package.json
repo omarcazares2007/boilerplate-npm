@@ -1,7 +1,7 @@
 {
-	"name": "MAJOR.MINOR.PATCH",
-	"dependencies":"@freecodecamp/example"{
-		"express":"1.2.13"
+	"name": "fcc-learn-npm-package-json",
+			"dependencies":"@freecodecamp/example" {
+				"express": "^1.2.13"
     
 	},
 	"main": "server.js",
