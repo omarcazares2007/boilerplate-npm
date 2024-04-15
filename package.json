@@ -1,7 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"dependencies":"@freecodecamp/example"{
-		"express": "1.2.13"
+	 "version": "1.0.0",
+          "dependencies": {
+           "@freecodecamp/example": "1.2.13"
+  
+
 	},
 	"main": "server.js",
 	"scripts": {
